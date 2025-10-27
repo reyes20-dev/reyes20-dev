@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software;Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software;Tecnologo+analisis+y+desarrollo+de+software;;Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
 
 </div>
 
@@ -191,7 +191,7 @@ Plataforma innovadora de importación inteligente que conecta compradores colomb
 
 **🚀 Responsabilidades y Logros:**
 
-- ⚡ **Desarrollo Full Stack:** Implementación de aplicaciones web completas utilizando Java/Spring Boot para backend robusto y React/Tailwind CSS para interfaces modernas y responsivas
+- ⚡ **Desarrollo Full Stack:** Implementación de aplicaciones web completas utilizando Java/Spring Boot  Python/FasAPI para backend robusto y React/Tailwind CSS para interfaces modernas y responsivas
 - 🎨 **Arquitectura Frontend:** Construcción de componentes reutilizables y gestión de estado eficiente con React, logrando experiencias de usuario fluidas
 - 🔧 **Diseño de APIs:** Desarrollo de APIs RESTful escalables y documentadas, siguiendo mejores prácticas de arquitectura
 - 🗄️ **Gestión de Datos:** Diseño e implementación de bases de datos MySQL optimizadas, creación de consultas complejas y optimización de rendimiento
