@@ -23,7 +23,7 @@ const david = {
     rol: "Full Stack Developer",
     educacion: "Ingeniería de Software / Tecnologo en analisis y desarrollo de sofware",
     ubicacion: "Mosquera, Cundinamarca 🇨🇴",
-    idiomas: ["Español (Nativo)", "Inglés (B1)"],
+    idiomas: ["Español (Nativo)", "Inglés (B1) en progreso"],
     
     codigoFilosofia: "Clean Code, Scalable Architecture, User-Centric Design",
     
@@ -146,33 +146,36 @@ Sistema integral para la administración y gestión de consultorios jurídicos, 
 </td>
 <td width="50%">
 
-### 📮 Plataforma de Gestión Digital
-**Casillero Digital**
+### 📦 Plataforma E-commerce Inteligente
+**Casillero Digital - Import Assistant**
 
-Solución moderna para la gestión y administración de casilleros digitales, facilitando el almacenamiento seguro y la organización de documentos e información importante.
+Plataforma innovadora de importación inteligente que conecta compradores colombianos con productos exclusivos de Estados Unidos. Utiliza IA  para recomendar los mejores productos según múltiples factores: precio, calidad, disponibilidad y costos de envío, especializándose en artículos difíciles de conseguir localmente.
 
 **🔧 Stack Tecnológico:**
-- **Backend:** Java, Spring Boot
-- **Frontend:** Vue.js, Tailwind CSS
-- **Base de Datos:** MySQL
-- **Almacenamiento:** Sistema de archivos optimizado
+- **Frontend:** React, Astro.js, Tailwind CSS
+- **Backend:** Python, JavaScript
+- **IA/ML:** API GPT para búsqueda inteligente
+- **Integración:** En espera de Amazon Affiliates API (en transición)
 
 **✨ Características Principales:**
-- 📦 Sistema de casilleros virtuales personalizados
-- 🔒 Almacenamiento seguro con encriptación
-- 📂 Organización jerárquica de documentos
-- 🔔 Notificaciones en tiempo real
-- 👁️ Control de accesos y permisos
-- 📤 Carga y descarga masiva de archivos
-- 🔍 Búsqueda inteligente de contenido
+- 🤖 **IA:** Asistente que analiza múltiples factores para recomendar productos óptimos
+- 🌎 **Importación Especializada:** Enfoque en productos exclusivos de USA no disponibles en Colombia
+- 💰 **Análisis de Costos:** Cálculo automático de precios, impuestos y envío internacional
+- 📊 **Comparador Avanzado:** Evaluación de precio, calidad, reviews y disponibilidad
+- 🚚 **Logística Integrada:** Gestión completa del proceso de importación
+- 🔔 **Notificaciones de Ofertas:** Alertas de precios y disponibilidad
 
 **🎯 Impacto:**
-- Digitalización del 100% de procesos
-- Acceso 24/7 a información crítica
-- Reducción de costos operativos
+- Acceso a productos exclusivos antes inaccesibles
+- Proceso de importación simplificado y transparente
+- En desarrollo: Integración con Amazon Affiliates API
 
-`#Java` `#SpringBoot` `#VueJS` `#MySQL` `#CloudStorage`
+**🚀 Estado del Proyecto:**
+- ✅ MVP funcional con chat IA implementado
+- ⏳ Pendiente: Aprobación de Amazon Affiliates API
+- 🔄 En transición hacia integración completa de catálogo
 
+`#React` `#Astro` `#Python` `#JavaScript` `#TailwindCSS` `#AI` `#ChatGPT` `#E-commerce`
 </td>
 </tr>
 </table>
